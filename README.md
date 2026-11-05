@@ -76,3 +76,4 @@
 [个人网站](https://www.huasheng.ai/) · [X](https://x.com/AlchainHust) · [YouTube](https://www.youtube.com/@Alchain) · [更多开源项目](https://github.com/alchaincyf?tab=repositories)
 
 合作联系：alchaincyf3@gmail.com
+https://github.com/nicholascarno09-byte/alchaincyf.git
